@@ -14,9 +14,8 @@
  * limitations under the License.
  */
 
-import MDLBaseComponent, {
-  MDLBaseAdapter, ref
-} from 'mdl-base-component';
+import MDLBaseComponent from 'mdl-base';
+import {MDLBaseAdapter, ref} from 'mdl-base/adapter';
 import MDLRippleMixin, {
   Class,
   Identifier,

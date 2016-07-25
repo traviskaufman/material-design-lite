@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import MDLBaseComponent from 'mdl-base-component';
+import MDLBaseComponent from 'mdl-base';
 import MDLCheckboxMixin from './mixin';
 import {cssClasses, strings, numbers} from './constants';
 

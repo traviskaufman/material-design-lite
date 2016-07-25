@@ -14,9 +14,8 @@
  * limitations under the License.
  */
 
-import MDLBaseComponent, {
-  MDLBaseAdapter
-} from 'mdl-base-component';
+import MDLBaseComponent from 'mdl-base';
+import {MDLBaseAdapter} from 'mdl-base/adapter';
 import MDLRadioMixin, {
   Identifier
 } from './mixin';
